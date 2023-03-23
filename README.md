@@ -2,6 +2,8 @@
 
 ## Findings in Code4rena 
 
+6 High and 24 medium severity.
+
 - [Nounsdao](2022-08-nounsdao/README.md)
 - [Fiatdao](2022-08-fiatdao/README.md)
 - [Foundation](2022-08-foundation/README.md)
