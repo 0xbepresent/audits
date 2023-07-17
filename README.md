@@ -1,25 +1,30 @@
-# 0xbepresent's security audits
+# Security audits 
 
 ## Findings in Code4rena 
 
-6 High and 24 medium severity.
+- [Foundation](2022-08-foundation/README.md) - 2022-08.
+- [Nounsdao](2022-08-nounsdao/README.md) - 2022-08.
+- [Fiatdao](2022-08-fiatdao/README.md) - 2022-08.
+- [Vtvl](2022-09-vtvl/README.md) - 2022-09.
+- [Nouns](2022-09-nouns-builder/README.md) - 2022-09.
+- [Party](2022-09-party/README.md) - 2022-09.
+- [Inverse](2022-10-inverse/README.md) - 2022-10.
+- [Paladin](2022-10-paladin/README.md) - 2022-10.
+- [Frax](2022-08-frax/README.md) - 2022-08.
+- [Stakehouse](2022-11-stakehouse/README.md) - 2022-11.
+- [Redactedcartel](2022-11-redactedcartel/README.md) - 2022-11.
+- [Debtdao](2022-11-debtdao/README.md) - 2022-11.
+- [Tigris](2022-12-tigris/README.md) - 2022-12.
+- [Escher](2022-12-escher/README.md) - 2022-12.
+- [Biconomy](2023-01-biconomy/README.md) - 2023-01.
+- [Drips](2023-01-drips/README.md) - 2023-01.
+- [Gogopool](2022-12-gogopool/README.md) - 2022-12.
+- [Rabbithole](2023-01-rabbithole/README.md) - 2023-01.
+- [Wenwin](2023-03-wenwin/README.md) - 2023-03.
+- [Ethos](2023-02-ethos/README.md) - 2023-02.
+- [Caviar](2023-04-caviar/README.md) - 2023-04.
+- [Astaria](2023-01-astaria/README.md) - 2023-01.
 
-- [Nounsdao](c4/2022-08-nounsdao/README.md)
-- [Fiatdao](c4/2022-08-fiatdao/README.md)
-- [Foundation](c4/2022-08-foundation/README.md)
-- [Frax](c4/2022-08-frax/README.md)
-- [Party](c4/2022-09-party/README.md)
-- [Nouns builder](c4/2022-09-nouns-builder/README.md)
-- [VTVL](c4/2022-09-vtvl/README.md)
-- [Paladin](c4/2022-10-paladin/README.md)
-- [Inverse](c4/2022-10-inverse/README.md)
-- [Debtdao](c4/2022-11-debtdao/README.md)
-- [Stakehouse](c4/2022-11-stakehouse/README.md)
-- [Redactedcartel](c4/2022-11-redactedcartel/README.md)
-- [Escher](c4/2022-12-escher/README.md)
-- [Tigris](c4/2022-12-tigris/README.md)
-- [Gogopool](c4/2022-12-gogopool/README.md)
-- [Biconomy](c4/2023-01-biconomy/README.md)
-- [Drips](c4/2023-01-drips/README.md)
+6 Highs and 26 Medium severity.
 
-I'm available for security consulting.
+I'm available for web3 security consulting and private audits.
