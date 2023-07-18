@@ -1,0 +1,1 @@
+[Medium](Medium-0xbepresent_-_When_the_'JUSDBank.withdraw()'_is_to_another_internal_account_the_'ReserveInfo.isDepositAllowed'_is_not_validated/README.md) - 0xbepresent - When the `JUSDBank.withdraw()` is to another internal account the `ReserveInfo.isDepositAllowed` is not validated
