@@ -1,6 +1,10 @@
 
 [High](High-0xbepresent_-_The_DepositManagerV1.sol::fundBountyToken()_must_accept_only_whitelisted_tokens./README.md) - 0xbepresent - The ```DepositManagerV1.sol::fundBountyToken()``` must accept only whitelisted tokens.
+
 [High](High-0xbepresent_-_fundingTotals_is_not_updated_when_funder_withdraw_his_funding_in_the_TieredPercentage_bounty./README.md) - 0xbepresent - ```fundingTotals``` is not updated when funder withdraw his funding in the ```TieredPercentage``` bounty.
+
 [High](High-0xbepresent_-_User_claim_is_compromised_if_the_deposited_NFT_is_refunded_by_the_funder./README.md) - 0xbepresent - User claim is compromised if the deposited NFT is refunded by the funder.
+
 [Medium](Medium-0xbepresent_-_tokenAddresses_count_is_not_decreased_on_refunds_causing_a_limitation_in_deposits./README.md) - 0xbepresent - ```tokenAddresses``` count is not decreased on refunds causing a limitation in deposits.
+
 [High](High-0xbepresent_-_The_first_assigned_winner_can_close_the_competition_via_ClaimManagerV1.sol::permissionedClaimTieredBounty()_even_when_the_other_winners_are_not_assigned_yet./README.md) - 0xbepresent - The first assigned winner can close the competition via ```ClaimManagerV1.sol::permissionedClaimTieredBounty()``` even when the other winners are not assigned yet.
