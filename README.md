@@ -27,7 +27,6 @@
 
 6 Highs and 26 Medium severity.
 
-
 ## Findings in Sherlock 
 
 - [Openq](sherlock/2023-02-openq-judging/README.md) - 2023-03.
