@@ -27,12 +27,13 @@
 
 6 Highs and 26 Medium severity.
 
+
 ## Findings in Sherlock 
 
-- [2023-02-openq-judging](sherlock/2023-02-openq-judging/README.md) - 2023-03.
-- [2023-03-teller-judging](sherlock/2023-03-teller-judging/README.md) - 2023-06.
-- [2023-04-jojo-judging](sherlock/2023-04-jojo-judging/README.md) - 2023-06.
-- [2023-06-arrakis-judging](sherlock/2023-06-arrakis-judging/README.md) - 2023-07.
+- [Openq](sherlock/2023-02-openq-judging/README.md) - 2023-03.
+- [Teller](sherlock/2023-03-teller-judging/README.md) - 2023-06.
+- [Jojo](sherlock/2023-04-jojo-judging/README.md) - 2023-06.
+- [Arrakis](sherlock/2023-06-arrakis-judging/README.md) - 2023-07.
 
 7 Highs and 5 Medium severity.
 
