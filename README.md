@@ -24,16 +24,19 @@
 - [Ethos](c4/2023-02-ethos/README.md) - 2023-02.
 - [Caviar](c4/2023-04-caviar/README.md) - 2023-04.
 - [Astaria](c4/2023-01-astaria/README.md) - 2023-01.
+- [Asymmetry](c4/2023-03-asymmetry/README.md) - 2023-03.
+- [Polynomial](c4/2023-03-polynomial/README.md) - 2023-03.
 
-6 Highs and 26 Medium severity.
+8 Highs and 31 Medium severity.
 
 ## Findings in Sherlock 
 
 - [Openq](sherlock/2023-02-openq-judging/README.md) - 2023-03.
 - [Teller](sherlock/2023-03-teller-judging/README.md) - 2023-06.
+- [Hubble](sherlock/2023-04-hubble-exchange-judging/README.md) - 2023-08.
 - [Jojo](sherlock/2023-04-jojo-judging/README.md) - 2023-06.
-- [Arrakis](sherlock/2023-06-arrakis-judging/README.md) - 2023-07.
+- [Unstoppable](sherlock/2023-06-unstoppable-judging/README.md) - 2023-08.
 
-7 Highs and 5 Medium severity.
+9 Highs and 7 Medium severity.
 
 I'm available for web3 security consulting and private audits.
