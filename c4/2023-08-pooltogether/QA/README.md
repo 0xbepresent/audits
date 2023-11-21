@@ -1,5 +1,6 @@
 # Original link
 https://github.com/code-423n4/2023-08-pooltogether-findings/issues/149
+
 1 - The emission rate in the `LiquidationPair` is not updated when the vault balance is updated
 ==
 

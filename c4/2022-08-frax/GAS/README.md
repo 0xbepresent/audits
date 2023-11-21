@@ -1,5 +1,6 @@
 # Original link
 https://github.com/code-423n4/2022-08-frax-findings/issues/114
+
 1 - Using private rather than public for constants save gas.
 ==
 

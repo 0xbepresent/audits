@@ -1,5 +1,6 @@
 # Original link
 https://github.com/code-423n4/2022-11-redactedcartel-findings/issues/309
+
 1 - Use ```totalAssets()``` function.
 ==
 

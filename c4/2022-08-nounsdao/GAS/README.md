@@ -1,5 +1,6 @@
 # Original link
 https://github.com/code-423n4/2022-08-nounsdao-findings/issues/109
+
 1 - Internal functions only called once can be inlined to save gas
 ==
 

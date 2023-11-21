@@ -1,5 +1,6 @@
 # Original link
 https://github.com/code-423n4/2023-04-caviar-findings/issues/451
+
 1 - There is a discrepancy between the documentation and the code in the ```PrivatePool.change()``` function
 ==
 

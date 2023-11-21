@@ -1,5 +1,6 @@
 # Original link
 https://github.com/code-423n4/2023-07-pooltogether-findings/issues/392
+
 1 - The Vault.setClaimer() should validate is not a zero address
 ==
 

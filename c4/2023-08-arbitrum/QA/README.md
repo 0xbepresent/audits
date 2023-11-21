@@ -1,5 +1,6 @@
 # Original link
 https://github.com/code-423n4/2023-08-arbitrum-findings/issues/203
+
 1 - Contender and Nominee can vote to themselves
 ==
 

@@ -1,5 +1,6 @@
 # Original link
 https://github.com/code-423n4/2023-01-astaria-findings/issues/415
+
 1 - Public vault creation should be for whitelisted strategists.
 ==
 
