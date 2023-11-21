@@ -1,9 +1,9 @@
 
 [High](High-0xbepresent_-_The_DepositManagerV1.sol::fundBountyToken()_must_accept_only_whitelisted_tokens./README.md) - 0xbepresent - The ```DepositManagerV1.sol::fundBountyToken()``` must accept only whitelisted tokens.
 
-[High](High-0xbepresent_-_fundingTotals_is_not_updated_when_funder_withdraw_his_funding_in_the_TieredPercentage_bounty./README.md) - 0xbepresent - ```fundingTotals``` is not updated when funder withdraw his funding in the ```TieredPercentage``` bounty.
-
 [High](High-0xbepresent_-_User_claim_is_compromised_if_the_deposited_NFT_is_refunded_by_the_funder./README.md) - 0xbepresent - User claim is compromised if the deposited NFT is refunded by the funder.
+
+[High](High-0xbepresent_-_fundingTotals_is_not_updated_when_funder_withdraw_his_funding_in_the_TieredPercentage_bounty./README.md) - 0xbepresent - ```fundingTotals``` is not updated when funder withdraw his funding in the ```TieredPercentage``` bounty.
 
 [Medium](Medium-0xbepresent_-_tokenAddresses_count_is_not_decreased_on_refunds_causing_a_limitation_in_deposits./README.md) - 0xbepresent - ```tokenAddresses``` count is not decreased on refunds causing a limitation in deposits.
 
