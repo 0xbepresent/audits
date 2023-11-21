@@ -1,8 +1,8 @@
 
-[High](High-0xbepresent_-_Malicious_lender_can_assign_his_own_commitment_to_another_victim_lender/README.md) - 0xbepresent - Malicious lender can assign his own commitment to another victim lender
+[High](High-https:--github.com-sherlock-audit-2023-03-teller-judging-issues-160/README.md) - 0xbepresent - Malicious lender can assign his own commitment to another victim lender
 
-[High](High-0xbepresent_-_Malicious_lender_can_block_borrower_repayment_causing_the_borrower_default/README.md) - 0xbepresent - Malicious lender can block borrower repayment causing the borrower default
+[High](High-https:--github.com-sherlock-audit-2023-03-teller-judging-issues-158/README.md) - 0xbepresent - Malicious lender can block borrower repayment causing the borrower default
 
-[High](High-0xbepresent_-_Malicious_borrower_can_block_liquidations_causing_the_lender_to_receive_neither_the_settlement_amount_nor_the_collateral/README.md) - 0xbepresent - Malicious borrower can block liquidations causing the lender to receive neither the settlement amount nor the collateral
+[High](High-https:--github.com-sherlock-audit-2023-03-teller-judging-issues-228/README.md) - 0xbepresent - Malicious borrower can block liquidations causing the lender to receive neither the settlement amount nor the collateral
 
-[Medium](Medium-0xbepresent_-_If_the_loan_is_into_default,_an_attacker_can_force_to_the_lender_to_receive_the_collateral_instead_the_settlement_amount/README.md) - 0xbepresent - If the loan is into default, an attacker can force to the lender to receive the collateral instead the settlement amount
+[Medium](Medium-https:--github.com-sherlock-audit-2023-03-teller-judging-issues-232/README.md) - 0xbepresent - If the loan is into default, an attacker can force to the lender to receive the collateral instead the settlement amount
