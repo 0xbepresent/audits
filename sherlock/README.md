@@ -10,5 +10,3 @@
 - [Gitcoin](2023-09-Gitcoin-judging/README.md) - 2023-11.
 
 17 Highs and 12 Medium severity.
-
-I'm available for web3 security consulting and private audits.
