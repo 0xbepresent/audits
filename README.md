@@ -16,9 +16,9 @@
 
 ## Codehawks
 
+10 Highs, 5 Medium severity and 4 lows.
+
 - [Findings in Codehawks](codehawks/README.md)
 - https://www.codehawks.com/profile/clk8nnlbx000oml080k0lz7iy
-
-10 Highs, 5 Medium severity and 4 lows.
 
 I'm available for web3 security consulting and private audits.
