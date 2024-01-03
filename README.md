@@ -9,7 +9,7 @@
 
 ## Sherlock
 
-15 Highs and 12 Medium severity.
+16 Highs and 12 Medium severity.
 
 - [Findings in Sherlock](sherlock/README.md)
 - https://audits.sherlock.xyz/watson/0xbepresent

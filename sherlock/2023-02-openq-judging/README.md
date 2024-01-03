@@ -6,5 +6,3 @@
 - [High](High-1594176010/README.md) - 0xbepresent - ```fundingTotals``` is not updated when funder withdraw his funding in the ```TieredPercentage``` bounty.
 
 - [Medium](Medium-1594108686/README.md) - 0xbepresent - ```tokenAddresses``` count is not decreased on refunds causing a limitation in deposits.
-
-- [High](High-1594172874/README.md) - 0xbepresent - The first assigned winner can close the competition via ```ClaimManagerV1.sol::permissionedClaimTieredBounty()``` even when the other winners are not assigned yet.

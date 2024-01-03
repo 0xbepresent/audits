@@ -8,5 +8,6 @@
 - [Unstoppable](2023-06-unstoppable-judging/README.md) - 2023-08.
 - [Cooler](2023-08-cooler-judging/README.md) - 2023-09.
 - [Gitcoin](2023-09-Gitcoin-judging/README.md) - 2023-11.
+- [Nounsbuilder](2023-09-nounsbuilder-judging/README.md) - 2023-12.
 
-17 Highs and 12 Medium severity.
+18 Highs and 12 Medium severity.
