@@ -16,7 +16,7 @@
 
 ## Codehawks
 
-10 Highs, 5 Medium severity and 4 lows.
+9 Highs, 6 Medium severity and 6 lows.
 
 - [Findings in Codehawks](codehawks/README.md)
 - https://www.codehawks.com/profile/clk8nnlbx000oml080k0lz7iy
