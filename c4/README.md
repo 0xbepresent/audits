@@ -28,5 +28,8 @@
 - [Pooltogether](2023-08-pooltogether/README.md) - 2023-08.
 - [Arbitrum](2023-08-arbitrum/README.md) - 2023-08.
 - [Pooltogether](2023-07-pooltogether/README.md) - 2023-07.
+- [Quickswap](2022-09-quickswap/README.md) - 2022-09.
+- [Wildcat](2023-10-wildcat/README.md) - 2023-10.
+- [Party](2023-10-party/README.md) - 2023-10.
 
-12 Highs and 34 Medium severity.
+

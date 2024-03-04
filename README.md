@@ -2,7 +2,7 @@
 
 ## Code4rena
 
-15 Highs and 40 Medium severity.
+17 Highs and 43 Medium severity.
 
 - [Findings in Code4rena](c4/README.md)
 - https://code4rena.com/@0xbepresent
