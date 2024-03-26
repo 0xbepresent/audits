@@ -5,6 +5,7 @@
 | Project         | Date          | Report                                         |
 | -------         | ----          | ------                                         |
 | Increment       | February 2024 | [Link](/privateaudits/increment-security-review.pdf)    |
+| Spectra         | February 2024 | [Link](/privateaudits/Spectra-security-review.pdf)      |
 
 ## Contests
 
