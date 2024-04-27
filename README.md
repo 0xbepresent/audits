@@ -6,6 +6,7 @@
 | -------         | ----          | ------                                         |
 | Increment       | February 2024 | [Link](/privateaudits/increment-security-review.pdf)    |
 | Spectra         | February 2024 | [Link](/privateaudits/Spectra-security-review.pdf)      |
+| Ev Terminal     | April 2024    | [Link](/privateaudits/EVTerminal-security-review.pdf)   |
 
 ## Contests
 
