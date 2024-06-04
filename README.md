@@ -7,6 +7,8 @@
 | Increment       | February 2024 | [Link](/privateaudits/increment-security-review.pdf)    |
 | Spectra         | February 2024 | [Link](/privateaudits/Spectra-security-review.pdf)      |
 | Ev Terminal     | April 2024    | [Link](/privateaudits/EVTerminal-security-review.pdf)   |
+| Reya            | April 2024    | [Link](/privateaudits/ReyaNetwork-security-review-April.pdf) |
+| Rivus           | May 2024      | [Link](/privateaudits/Rivus-security-review.pdf)        |
 
 ## Contests
 
