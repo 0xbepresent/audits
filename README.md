@@ -9,6 +9,8 @@
 | Ev Terminal     | April 2024    | [Link](/privateaudits/EVTerminal-security-review.pdf)   |
 | Reya            | April 2024    | [Link](/privateaudits/ReyaNetwork-security-review-April.pdf) |
 | Rivus           | May 2024      | [Link](/privateaudits/Rivus-security-review.pdf)        |
+| SFT             | May 2024      | [Link](/privateaudits/SFT-security-review.pdf)          |   
+| Sharwa Finance  | June 2024     | [Link](/privateaudits/SharwaFinance-security-review.pdf)|
 
 ## Contests
 
@@ -35,3 +37,4 @@
 
 
 If you need security advice, feel free to reach out to me at [https://x.com/0xbepresent](https://x.com/0xbepresent).
+    
