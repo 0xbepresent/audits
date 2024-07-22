@@ -16,7 +16,7 @@
 
 ### Code4rena
 
-17 Highs and 43 Medium severity.
+20 Highs and 47 Medium severity.
 
 - [Findings in Code4rena](c4/README.md)
 - https://code4rena.com/@0xbepresent
@@ -37,4 +37,3 @@
 
 
 If you need security advice, feel free to reach out to me at [https://x.com/0xbepresent](https://x.com/0xbepresent).
-    
