@@ -1,3 +1,3 @@
 # Findings for 2023-01-drips 
 
-- [[MEDIUM]]([MEDIUM]-1566789551/README.md) - An authorized user can call authorize()/unauthorize() functions via ```CallAs()``` function 
+- [[MEDIUM]]([MEDIUM]-1568863552/README.md) - `unauthorize()` can be front-run so that the malicious authorized user would get their authority back

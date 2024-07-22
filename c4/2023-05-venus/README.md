@@ -1,3 +1,3 @@
 # Findings for 2023-05-venus 
 
-- [[MEDIUM]]([MEDIUM]-1710635703/README.md) - `Comptroller.exitMarket()` does not get an updated `exchange rate` causing inacurate exit validations
+- [[MEDIUM]]([MEDIUM]-1710615745/README.md) - It's possible to borrow, redeem, transfer tokens and exit markets with outdated collateral prices and borrow interest
