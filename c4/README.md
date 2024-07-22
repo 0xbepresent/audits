@@ -32,4 +32,4 @@
 - [Wildcat](2023-10-wildcat/README.md) - 2023-10.
 - [Party](2023-10-party/README.md) - 2023-10.
 
-
+16 Highs and 35 Medium severity.
