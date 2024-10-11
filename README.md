@@ -7,10 +7,14 @@
 | Increment       | February 2024 | [Link](/privateaudits/increment-security-review.pdf)    |
 | Spectra         | February 2024 | [Link](/privateaudits/Spectra-security-review.pdf)      |
 | Ev Terminal     | April 2024    | [Link](/privateaudits/EVTerminal-security-review.pdf)   |
-| Reya            | April 2024    | [Link](/privateaudits/ReyaNetwork-security-review-April.pdf) |
+| Reya Network    | April 2024    | [Link](/privateaudits/ReyaNetwork-security-review-April.pdf) |
 | Rivus           | May 2024      | [Link](/privateaudits/Rivus-security-review.pdf)        |
 | SFT             | May 2024      | [Link](/privateaudits/SFT-security-review.pdf)          |   
-| Sharwa Finance  | June 2024     | [Link](/privateaudits/SharwaFinance-security-review.pdf)|
+| Aburra          | May 2024      | [Link](/privateaudits/Aburra-security-review.pdf)        |
+| Sharwa Finance  | June 2024     | [Link](/privateaudits/SharwaFinance-security-review.pdf)|   
+| Reya Network    | June 2024     | [Link](/privateaudits/ReyaNetwork-June29.pdf)|
+| Reya Network    | Aug 2024      | [Link](/privateaudits/ReyaNetwork-security-review-August.pdf)|
+| SushiSwap       | Aug 2024      | [Link](/privateaudits/SushiSwap-security-review.pdf)|
 
 ## Contests
 
