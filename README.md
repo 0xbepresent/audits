@@ -15,6 +15,7 @@
 | Reya Network    | June 2024     | [Link](/privateaudits/ReyaNetwork-June29.pdf)|
 | Reya Network    | Aug 2024      | [Link](/privateaudits/ReyaNetwork-security-review-August.pdf)|
 | SushiSwap       | Aug 2024      | [Link](/privateaudits/SushiSwap-security-review.pdf)|
+| Bunni           | Aug 2024      | [Link](/privateaudits/Bunni-security-review-August.pdf)|
 
 ## Contests
 
@@ -37,7 +38,7 @@
 9 Highs, 6 Medium severity and 6 lows.
 
 - [Findings in Codehawks](codehawks/README.md)
-- https://www.codehawks.com/profile/clk8nnlbx000oml080k0lz7iy
+- https://profiles.cyfrin.io/u/0xbepresent
 
 
 If you need security advice, feel free to reach out to me at [https://x.com/0xbepresent](https://x.com/0xbepresent).
