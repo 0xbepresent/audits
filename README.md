@@ -15,13 +15,15 @@
 | Reya Network    | June 2024     | [Link](/privateaudits/ReyaNetwork-June29.pdf)|
 | Reya Network    | Aug 2024      | [Link](/privateaudits/ReyaNetwork-security-review-August.pdf)|
 | SushiSwap       | Aug 2024      | [Link](/privateaudits/SushiSwap-security-review.pdf)|
-| Bunni           | Aug 2024      | [Link](/privateaudits/Bunni-security-review-August.pdf)|
+| Bunni           | Sep 2024      | [Link](/privateaudits/Bunni-security-review-August.pdf)|
+| ApDAO           | Oct 2024      | [Link](/privateaudits/apDAO-security-review_2024-10-03.pdf)|
+| Arcadia         | Nov 2024      | [Link](/privateaudits/Arcadia-security-review-October.pdf)|
 
 ## Contests
 
 ### Code4rena
 
-20 Highs and 47 Medium severity.
+21 Highs and 52 Medium severity.
 
 - [Findings in Code4rena](c4/README.md)
 - https://code4rena.com/@0xbepresent
