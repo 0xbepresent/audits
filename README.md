@@ -21,6 +21,8 @@
 | G8keep          | Dec 2024      | [Link](/privateaudits/g8keep-security-review_2024-12-12.pdf)|
 | DefiApp         | Jan 2025      | [Link](/privateaudits/DefiApp-security-review_2025-01-08.pdf)|
 | Roots           | Feb 2025      | [Link](/privateaudits/Roots-security-review_2025-02-09.pdf)|
+| Yield-basis     | Mar 2025      | - |
+| Defiapp         | Apr 2025      | - |
 
 ## Contests
 
