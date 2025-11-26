@@ -22,7 +22,16 @@
 | DefiApp         | Jan 2025      | [Link](/privateaudits/DefiApp-security-review_2025-01-08.pdf)|
 | Roots           | Feb 2025      | [Link](/privateaudits/Roots-security-review_2025-02-09.pdf)|
 | Yield-basis     | Mar 2025      | - |
-| Defiapp         | Apr 2025      | - |
+| REDACTED        | Apr 2025      | - |
+| REDACTED        | May 2025      | - |
+| REDACTED        | Jun 2025      | - |
+| REDACTED        | Aug 2025      | - |
+| REDACTED        | Aug 2025      | - |
+| REDACTED        | Oct 2025      | - |
+| REDACTED        | Oct 2025      | - |
+| REDACTED        | Nov 2025      | - |
+| REDACTED        | Nov 2025      | - |
+| REDACTED        | Nov 2025      | - |
 
 ## Contests
 
